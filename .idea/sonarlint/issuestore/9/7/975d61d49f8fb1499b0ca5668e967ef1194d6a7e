@@ -1,0 +1,7 @@
+
+jpython:S1542"RRename function "clearConsole" to match the regular expression ^[a-z_][a-z0-9_]*$.(åÍ—´
+jpython:S1542	"RRename function "readFileJson" to match the regular expression ^[a-z_][a-z0-9_]*$.(³î÷Û
+Ipython:S1172",Remove the unused function parameter "file".(Â®äùÿÿÿÿ
+tpython:S117"XRename this local variable "jsonObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆŸ¶¦ûÿÿÿÿ
+ppython:S1542"SRename function "writeFileJson" to match the regular expression ^[a-z_][a-z0-9_]*$.(Â®äùÿÿÿÿ
+opython:S1542"RRename function "checkModules" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ã÷Æ¨ıÿÿÿÿ

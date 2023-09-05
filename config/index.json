@@ -1,0 +1,19 @@
+{
+    "session": "hzsesi.json",
+    "url": "https://shopee.vn/Gel-r%E1%BB%ADa-m%E1%BA%B7t-t%E1%BA%A1o-b%E1%BB%8Dt-cho-da-d%E1%BA%A7u-nh%E1%BA%A1y-c%E1%BA%A3m-La-Roche-Posay-Effaclar-Foaming-400ml-i.37251700.1335573348",
+    "variation": [],
+    "chromedriver": "./webdriver/chromedriver",
+    "options": [],
+    "autoCheckout": true,
+    "autoOrder": false,
+    "modules": [
+        "progress",
+        "inquirer",
+        "seleniumwire",
+        "progress",
+        "colorama",
+        "requests",
+        "wget"
+    ],
+    "platform": "Linux"
+}
